@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div align="center">
+  <a href="https://commit-history.com/Rodping">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Rodping?theme=dark" />
+      <img alt="Rodping's commit history" src="https://commit-history.com/embed/Rodping" />
+    </picture>
+  </a>
+</div>
+
 <!--
 **Rodping/Rodping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
